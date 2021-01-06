@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/AmandaAmos/liri-node-app#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "moment": "^2.27.0",
     "node": "^14.5.0",
